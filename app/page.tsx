@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="pt-10">
+    <div className="pt-10 max-w-8xl mx-auto px-4 sm:px-6 md:px-8">
       <h1 className="dark:text-slate-200 font-bold text-2xl tracking-tight sm:text-3xl">
         Welcome to the homepage
       </h1>
